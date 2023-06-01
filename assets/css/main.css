@@ -2481,3 +2481,28 @@ input, select, textarea {
 		font-size: smaller;
 
 	}
+
+	.educ1 {
+		list-style: none;
+		display: block;
+	}
+
+	.fa-graduation-cap {
+		margin-bottom: 0px !important;
+	}
+
+	.fa-graduation-cap::before {
+		content: "\f19d";
+		margin-right: 10px;
+	}
+
+	.educ-description {
+		margin-top: 3px !important;
+		margin-bottom: 20px;
+	}
+
+	.course {
+		margin-left: 40px !important ;
+		margin-bottom: 0 !important;
+	}
+
