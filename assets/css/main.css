@@ -2482,7 +2482,7 @@ input, select, textarea {
 
 	}
 
-	.educ1 {
+	.educ1, .educ {
 		list-style: none;
 		display: block;
 	}
